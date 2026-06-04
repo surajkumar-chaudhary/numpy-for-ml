@@ -3,6 +3,8 @@
 Learning NumPy from fundamentals to machine learning applications through examples, notes, exercises, and mini-projects.
 
 ## Progress Tracker
+## Completed Modules: 3/14
+
 
 ### ✅ 01 Array Creation
 
@@ -37,6 +39,6 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - transpose()
 - resize()
 
-### ⏳ 03 Broadcasting
+### ⏳ 04 Broadcasting
 - Scalar Broadcasting
 - 
