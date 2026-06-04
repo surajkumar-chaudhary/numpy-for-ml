@@ -30,9 +30,13 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Boolean Indexing
 - Multiple Conditions
 
-### ⏳ 03 Reshaping
-
+### ✅ 03 Reshaping
 - reshape()
 - flatten()
 - ravel()
 - transpose()
+- resize()
+
+### ⏳ 03 Broadcasting
+- Scalar Broadcasting
+- 
