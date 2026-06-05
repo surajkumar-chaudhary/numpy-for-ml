@@ -3,7 +3,7 @@
 Learning NumPy from fundamentals to machine learning applications through examples, notes, exercises, and mini-projects.
 
 ## Progress Tracker
-## Completed Modules: 4/14
+## Completed Modules: 7/14
 
 
 ### ✅ 01 Array Creation
@@ -45,9 +45,35 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Column Broadcasting
 - Broadcasting Rules
 
-### ⏳ 05 Array Operations
+### ✅ 05 Array Operations
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Comparison
+
+### ✅ 06 Aggregation
+- Sum()
+- Mean()
+- Min() Max()
+- argmin() argmax()
+- Axis()
+
+### ✅ 07 Statistics
+- Variance
+- Standard Deviation
+- Median
+- Percentile
+- Normalization
+
+### ⏳ 08 Linear Algebra
+- Vectors
+- Dot Product
+- Matrix Multiplication
+- Transpose
+- Identity Matrix
+- Inverse
+- Determinant
+- Eigen Values
+- Eigen Vectors
+
