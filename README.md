@@ -66,7 +66,7 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Percentile
 - Normalization
 
-### ⏳ 08 Linear Algebra
+### ✅ 08 Linear Algebra
 - Vectors
 - Dot Product
 - Matrix Multiplication
@@ -77,3 +77,11 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Eigen Values
 - Eigen Vectors
 
+### ✅ Random
+- Rand()
+- Randint()
+- Seed()
+- Shuffle()
+- Choice()
+
+### ⏳ Stacking and Splitting
