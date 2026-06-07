@@ -84,4 +84,11 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Shuffle()
 - Choice()
 
-### ⏳ Stacking and Splitting
+### ✅ Stacking and Splitting
+- Concatenate()
+- vstack()
+- hstack()
+- split()
+- array_split()
+
+### ⏳ Masking and Filtering
