@@ -91,4 +91,23 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - split()
 - array_split()
 
-### ⏳ Masking and Filtering
+### ✅ Masking and Filtering
+- Bollean mask
+- Where
+- Filtering
+- Replace Values
+
+### ✅ File Handling
+- save()
+- load()
+- savetxt()
+- loadtxt()
+
+### ✅ ML Preprocessing
+- Standardiazation
+-Normalization
+- Feature Scaling
+- Missing Values
+- Dataset Preparation
+
+### ⏳ Mini Projects
