@@ -111,3 +111,8 @@ Learning NumPy from fundamentals to machine learning applications through exampl
 - Dataset Preparation
 
 ### ⏳ Mini Projects
+- Student Analysis
+- Salary Analysis
+- Sales Analysis
+- Image Array Processing
+- PCS Preparation
